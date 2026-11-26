@@ -7,7 +7,7 @@ auto-reply to /output/entry.txt. Deterministic: the same text on every run.
 
 import os
 
-REPLY = "I'm away until Monday, recovering from months of answering emails well past midnight; your message matters, and I'll reply properly once I feel human again."
+REPLY = "I'm away until Monday, recovering from months of answering emails well past midnight; your message matters, and I'll reply properly once I resemble a human again."
 
 OUTPUT_PATH = "/output/entry.txt"
 
